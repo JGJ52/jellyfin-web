@@ -400,6 +400,16 @@ export const Component = () => {
                                             />
                                         }
                                     />
+                                    <FormControlLabel
+                                        label={globalize.translate('AllowVp9Encoding')}
+                                        control={
+                                            <Checkbox
+                                                name='AllowVp9Encoding'
+                                                checked={config.AllowVp9Encoding}
+                                                onChange={onCheckboxChange}
+                                            />
+                                        }
+                                    />
                                 </FormGroup>
                             </FormControl>
 
