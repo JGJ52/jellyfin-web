@@ -1941,5 +1941,8 @@
     "BitmapSubtitleAspectModeStretch": "Uitrekken",
     "LabelBitmapSubtitleAspectMode": "Beeldverhouding bitmapondertiteling",
     "Novel": "Roman",
-    "Screenplay": "Scenarist"
+    "Screenplay": "Scenarist",
+    "HlsAudioSeekStrategy": "De te gebruiken strategie bij terug- of vooruitspoelen in HLS-streams.",
+    "LabelHlsAudioSeekStrategy": "Geluidsspoelstrategie.",
+    "MessageForgotPasswordRedirect": "Je bent doorgestuurd naar een externe aanbieder voor het wachtwoordherstel."
 }
